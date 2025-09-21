@@ -14,4 +14,4 @@ The lab covers:
 ## How to Run
 1. Open the notebooks (`.ipynb`) in Google Colab or Jupyter Notebook.
 2. Run all code cells in order.
-3. Ensure the dataset is available in the `data/` folder for Task 2.
+3. Ensure the dataset is available in the `data/` folder.
